@@ -1,0 +1,14 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Node application for impetus raise the bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashok patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
